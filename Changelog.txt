@@ -1,0 +1,4 @@
+0.0.1
+Added Login and registration
+Added a landing page after login
+fixed some bugs 

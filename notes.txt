@@ -1,0 +1,15 @@
+
+Soon
+
+-- Login and Password verication in a text file.  so when you register the login and Password will save to a text file and then can be read later. 
+-- Update the GUI. 
+
+
+
+
+
+
+Future
+-- Change the login and register from text file to database (mysql ?)
+
+
