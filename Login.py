@@ -1,5 +1,4 @@
-
-
+from Register import *
 
 #username
 

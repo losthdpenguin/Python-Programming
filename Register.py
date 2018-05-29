@@ -1,5 +1,4 @@
 import MySQLdb
-from db import *
 
 
 
