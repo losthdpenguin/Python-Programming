@@ -1,4 +1,4 @@
-from Register import *
+
 
 
 #username
@@ -33,4 +33,5 @@ while password  !=(passcreate):
         print("Incorrect")
     else:
         print("Correct")
+        open("Landing.py","r")
 

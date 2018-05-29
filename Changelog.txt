@@ -2,3 +2,4 @@
 Added Login and registration
 Added a landing page after login
 fixed some bugs 
+
